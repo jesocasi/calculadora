@@ -2,8 +2,11 @@
 
 using namespace std;
 
-int main()
-{
-    cout << "Hello world!" << endl;
-    return 0;
+
+
+
+
+double multiplicar(double a, double b) {
+    return a * b;
 }
+
