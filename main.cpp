@@ -2,11 +2,7 @@
 
 using namespace std;
 
-
-
-
-
-double multiplicar(double a, double b) {
-    return a * b;
+float sumar(float a, float b) {
+    return a + b;
 }
 
