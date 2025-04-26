@@ -10,8 +10,7 @@ double multiplicar(double a, double b) {
 
 int main()
 {
-    cout<<"Calculadora"<<endl;
-
+    
     return 0;
 
     //Esto es solo una prueba
