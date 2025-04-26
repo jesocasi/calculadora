@@ -2,19 +2,15 @@
 
 using namespace std;
 
-<<<<<<< HEAD
+double multiplicar(double a, double b) {
+    return a * b;}
+
 int main()
 {
     cout<<"Calculadora"<<endl;
 
     return 0;
-=======
 
 
-
-
-double multiplicar(double a, double b) {
-    return a * b;
->>>>>>> branch1
 }
 
